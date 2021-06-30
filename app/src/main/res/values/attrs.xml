@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BleItemView">
+        <attr name="BleItemView_icon" format="reference" />
+        <attr name="BleItemView_name" format="string" />
+        <attr name="BleItemView_value" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="PercentView">
+        <attr name="PercentView_icon" format="reference" />
+        <attr name="PercentView_name" format="string" />
+        <attr name="PercentView_value" format="integer" />
+        <attr name="PercentView_color_str" format="string" />
+    </declare-styleable>
+</resources>
